@@ -1,0 +1,16 @@
+.facebook:hover i {
+    color: #3b5998; /* Facebook blue */
+    filter: brightness(1.3); /* Lighten effect */
+}
+
+/* Instagram hover effect */
+.instagram:hover i {
+    color: linear-gradient(45deg, #F58529, #FEDA77, #DD2A7B, #8134AF, #515BD4); /* Instagram gradient */
+    filter: brightness(1.3); /* Lighten effect */
+}
+
+/* LinkedIn hover effect */
+.linkedin:hover i {
+    color: #0077b5; /* LinkedIn blue */
+    filter: brightness(1.3); /* Lighten effect */
+}
